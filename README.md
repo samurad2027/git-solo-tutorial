@@ -1,3 +1,3 @@
-Git Solo Tutorial\n
-Sarah Murad\n
+Git Solo Tutorial
+Sarah Murad
 Winter 2024
